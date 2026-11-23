@@ -1,0 +1,16 @@
+{
+  "name": "antigravity-wallpaper-studio",
+  "displayName": "Antigravity Wallpaper Studio",
+  "version": "1.0.0",
+  "description": "Steam Wallpaper Engine live MP4 wallpaper integration & glassmorphic Theme Studio for Google Antigravity Desktop. Auto-discovers your local Steam Workshop videos, adds transparent adaptive menu bar, opacity sliders, 10+ chat bubbles, and 8 composer styles.",
+  "author": {
+    "name": "Hui07193",
+    "url": "https://github.com/Hui07193"
+  },
+  "repository": "https://github.com/Hui07193/antigravity-wallpaper-studio",
+  "suggestedPrompts": [
+    "安装并启动 Antigravity Wallpaper Studio，自动导入我的 Steam 动态壁纸",
+    "帮我调整 Antigravity 菜单栏和回答区透明度",
+    "切换我的 Steam 动态壁纸或开启定时轮播"
+  ]
+}

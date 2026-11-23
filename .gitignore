@@ -1,0 +1,18 @@
+# Build artifacts & local runtime state (never commit personal data)
+dist/
+theme_config.json
+daemon.pid
+daemon.log
+silent-start.vbs
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Personal wallpaper media
+themes/assets/*.jpg
+themes/assets/*.jpeg
+themes/assets/*.png
+themes/assets/*.webp
+themes/assets/*.mp4
+themes/assets/*.webm
